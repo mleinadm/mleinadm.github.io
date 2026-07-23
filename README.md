@@ -1,17 +1,34 @@
 # Leinad Mwendwa Portfolio
 
-Static portfolio site prepared for GitHub Pages.
+Professional portfolio website for Leinad Mwendwa, a Certified AI Engineer, CISSP, and Information Systems professional based in Nairobi, Kenya.
 
-## Deploy to GitHub Pages
+Live site: https://mleinadm.github.io/
 
-1. Create a GitHub repository.
-2. Push this folder to the repository.
-3. In GitHub, open `Settings` > `Pages`.
-4. Set the source to deploy from the `main` branch and `/root`.
-5. Save and wait for GitHub Pages to publish the site.
+## Overview
 
-For a personal site at `https://mleinadm.github.io/`, name the repository `mleinadm.github.io`. For a project site, GitHub Pages will publish under `https://mleinadm.github.io/<repository-name>/`.
+This repository contains a personal portfolio site presenting Leinad's work across AI systems, regulatory technology, data intelligence, information security, conformity assessment, and quality infrastructure.
 
-## Contact Form
+The site highlights professional experience, technical capabilities, selected work, service areas, leadership profile, and contact details for potential employers, collaborators, and organisations seeking dependable digital systems expertise.
 
-GitHub Pages does not run PHP, so the contact form uses a static `mailto:` flow. Submitting the form opens the visitor's email app with the message prepared for `mleinadm@gmail.com`.
+## Focus Areas
+
+- AI systems strategy and governance
+- Regulatory technology and compliance data systems
+- Information systems management
+- Data analytics, dashboards, and decision support
+- Information security and ISO-aligned safeguards
+- Quality management, accreditation, and standards workflows
+
+## Featured Sections
+
+- Professional profile and CV-based summary
+- Skills and certifications
+- Selected systems, analytics, governance, and standards work
+- Services aligned to AI, data, compliance, and digital transformation
+- Contact details, GitHub, LinkedIn, and downloadable CV
+
+## Links
+
+- Portfolio: https://mleinadm.github.io/
+- GitHub: https://github.com/mleinadm
+- LinkedIn: https://www.linkedin.com/in/mleinadm/
